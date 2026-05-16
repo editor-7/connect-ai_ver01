@@ -1,0 +1,10 @@
+{
+  "ceo": "qwen2.5:7b",
+  "secretary": "qwen2.5:7b",
+  "researcher": "qwen2.5:7b",
+  "business": "qwen2.5:7b",
+  "writer": "qwen2.5:7b",
+  "editor": "qwen2.5:7b",
+  "designer": "gemma4:latest",
+  "instagram": "qwen2.5:7b"
+}

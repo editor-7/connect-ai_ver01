@@ -1,0 +1,55 @@
+{
+  "tasks": [
+    {
+      "id": "20260516051918-om84",
+      "title": "트렌드 리포트 발행 및 라이브러리 구축: 매월 1회 트렌드 리포트를 작성하고, 이를 기반으로 인용 가능한 자료 라이브러리를 구축합니다.",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-05-16T05:19:18.398Z",
+      "status": "done",
+      "sessionDir": "2026-05-16T05-23",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-16T05-23/_report.md\n- Writer: Instagram 가입 방법을 설명하는 캡션 작성\n\nCEO 종합 요점: ⚠️ **모든 에이전트의 LLM 호출이 실패했습니다.**\n\n시도된 에이전트: ✍️ Writer\n\n**가장 흔한 원인**:\n- LM Studio에 모델 로드 실패 (메모리 부족) — 모델 오케스트레이션 모달에서 더 작은 모델 선택\n- Ollama/LM Studio 서버 미실행\n- Context Length 초과 (LM Studio 8192 이상 권장)\n\n_각",
+      "completedAt": "2026-05-16T05:26:12.217Z"
+    },
+    {
+      "id": "20260516051918-qamj",
+      "title": "주요 트렌드 메모 작성: 주요 트렌드 5개의 메모 작성",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-05-16T05:19:18.402Z",
+      "status": "done",
+      "sessionDir": "2026-05-16T05-23",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-16T05-23/_report.md\n- Writer: Instagram 가입 방법을 설명하는 캡션 작성\n\nCEO 종합 요점: ⚠️ **모든 에이전트의 LLM 호출이 실패했습니다.**\n\n시도된 에이전트: ✍️ Writer\n\n**가장 흔한 원인**:\n- LM Studio에 모델 로드 실패 (메모리 부족) — 모델 오케스트레이션 모달에서 더 작은 모델 선택\n- Ollama/LM Studio 서버 미실행\n- Context Length 초과 (LM Studio 8192 이상 권장)\n\n_각",
+      "completedAt": "2026-05-16T05:26:12.218Z"
+    },
+    {
+      "id": "20260516051918-y7u4",
+      "title": "경쟁사 분석: 경쟁사 2곳의 최근 활동 및 성공 콘텐츠 정리",
+      "description": "자동 등록 (Researcher 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "researcher"
+      ],
+      "createdAt": "2026-05-16T05:19:18.403Z",
+      "status": "done",
+      "sessionDir": "2026-05-16T05-23",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-16T05-23/_report.md\n- Writer: Instagram 가입 방법을 설명하는 캡션 작성\n\nCEO 종합 요점: ⚠️ **모든 에이전트의 LLM 호출이 실패했습니다.**\n\n시도된 에이전트: ✍️ Writer\n\n**가장 흔한 원인**:\n- LM Studio에 모델 로드 실패 (메모리 부족) — 모델 오케스트레이션 모달에서 더 작은 모델 선택\n- Ollama/LM Studio 서버 미실행\n- Context Length 초과 (LM Studio 8192 이상 권장)\n\n_각",
+      "completedAt": "2026-05-16T05:26:12.220Z"
+    }
+  ]
+}

@@ -5,3 +5,5 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 ## 학습 기록
 
 - [2026-05-15] YouTube API 키와 채널 ID 설정 → 산출물 sessions/2026-05-15T23-33/developer.md
+- [2026-05-16] git stash 복구 및 변경사항 확인 후 정상화 → 산출물 sessions/2026-05-16T00-36/developer.md
+- [2026-05-16] 코다리에게 Git stash 복구 및 변경사항 확인 후 정상화 작업 재시도 → 산출물 sessions/2026-05-16T04-13/developer.md
